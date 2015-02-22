@@ -5,6 +5,7 @@ Each person performed six activities.
 The [cleanData](cleanData.txt) set contains the following data
 
 subject - the id of the subject, range is (1:30)
+
 activity - 
 * STANDING, 
 * SITTING, 
