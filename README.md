@@ -1,3 +1,4 @@
+## Course Project
 This repository contains the script(run_analysis.R) for preparing tidy data that can later be used for analysis.
 
 The Data that is being prepared is data that was collected from accelerometers from the Samsung Galaxy S smartphone.
@@ -20,6 +21,13 @@ The script also creates a second independent tidy dataset with the average of ea
 The result of this operation is written out to the file summaryData.txt 
 
 For a complete description of the variables, data etc can be found in the [CodeBook.md](CodeBook.md) file.
-	
 
+Functions used in the script
 
+* read.table - to read the data
+* rbind - for merging the rows from train and test data
+* grep - for using regex to find the variables of interest (std and mean)
+* gsub - for pattern matching and replacing strings to create descriptive variable names
+* cbind - for adding the subject and activity columns to the data
+* aggregate - for creating dataset with average of each activity and each student
+* summarise_each(package: dplyr) - for creating dataset with average of each activity and each student (alternative for aggregate)   	
