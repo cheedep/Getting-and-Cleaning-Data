@@ -1,0 +1,17 @@
+This repository contains the script(run_analysis.R) for preparing tidy data that can later be used for analysis.
+
+The Data that is being prepared is data that was collected from accelerometers from the Samsung Galaxy S smartphone.
+The original Data can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+The full description of the data can be seen at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+The Data is located in the folder "UCI HAR Dataset" in this repository.
+To learn more about this data, see the README.txt file in the "UCI HAR Dataset" folder.
+
+The Dataset contains two sets of data train and test.
+The purpose of this script is to 
+	* merge the train and test datasets 
+	* extract a subset of the measurements (std and mean).
+	* give desriptive variable names
+	
+
+
