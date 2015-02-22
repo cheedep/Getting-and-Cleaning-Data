@@ -15,10 +15,10 @@ The purpose of this script is to
 * extract a subset of the measurements (std and mean).
 * give desriptive variable names
 
-The resultant clean dataset is written out to the file cleanData.txt
+The resultant clean dataset is written out to the file [cleanData.txt](cleanData.txt)
 
 The script also creates a second independent tidy dataset with the average of each activity and each student.
-The result of this operation is written out to the file summaryData.txt 
+The result of this operation is written out to the file [summaryData.txt](summaryData.txt) 
 
 For a complete description of the variables, data etc can be found in the [CodeBook.md](CodeBook.md) file.
 
