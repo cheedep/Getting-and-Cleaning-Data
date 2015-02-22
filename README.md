@@ -9,9 +9,10 @@ To learn more about this data, see the README.txt file in the "UCI HAR Dataset" 
 
 The Dataset contains two sets of data train and test.
 The purpose of this script is to 
-	* merge the train and test datasets 
-	* extract a subset of the measurements (std and mean).
-	* give desriptive variable names
+
+* merge the train and test datasets 
+* extract a subset of the measurements (std and mean).
+* give desriptive variable names
 	
 
 
