@@ -27,8 +27,11 @@ Some of the names of these measurements are given below
 * "tBodyAcc-std-Z"
 * "tGravityAcc-mean-X"
 * "tGravityAcc-mean-Y"
+
 ...
+
 ...
+
 ...
 
 The braces have been removed from the measurement names in the original dataset to make the names more descriptive.
@@ -50,8 +53,11 @@ It also contains the average columns
 * "tBodyAcc-std-Z-avg"
 * "tGravityAcc-mean-X-avg"
 * "tGravityAcc-mean-Y-avg"
+
 ...
+
 ...
+
 ...
 
 The column names have been appended with "-avg"
