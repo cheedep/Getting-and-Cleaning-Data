@@ -17,7 +17,7 @@ The purpose of this script is to
 
 The resultant clean dataset is written out to the file [cleanData.txt](cleanData.txt)
 
-The script also creates a second independent tidy dataset with the average of each activity and each student.
+The script also creates a second independent tidy dataset with the average of each activity and each subject.
 The result of this operation is written out to the file [summaryData.txt](summaryData.txt) 
 
 For a complete description of the variables, data etc can be found in the [CodeBook.md](CodeBook.md) file.
